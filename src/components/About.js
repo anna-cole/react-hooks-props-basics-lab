@@ -2,7 +2,7 @@ import React from "react";
 import Links from "./Links"
 
 function About(props) {
-  // console.log(props.links.github)
+  //console.log(props.links.github)
   return (
     <div id="about">
       <h2>About Me</h2>
@@ -12,5 +12,4 @@ function About(props) {
     </div>
   );
 }
-
 export default About;
